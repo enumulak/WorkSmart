@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\bin\Debug\netcoreapp3.1\WorkSmart.Data.deps.json
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\bin\Debug\netcoreapp3.1\WorkSmart.Data.dll
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\bin\Debug\netcoreapp3.1\WorkSmart.Data.pdb
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\bin\Debug\netcoreapp3.1\WorkSmart.Core.dll
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\bin\Debug\netcoreapp3.1\WorkSmart.Core.pdb
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.csprojAssemblyReference.cache
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.AssemblyInfo.cs
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.csproj.CopyComplete
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.dll
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Data\obj\Debug\netcoreapp3.1\WorkSmart.Data.pdb

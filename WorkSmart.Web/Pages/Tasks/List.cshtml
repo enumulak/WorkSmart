@@ -1,0 +1,36 @@
+﻿@page
+@model WorkSmart.Web.Pages.Tasks.ListModel
+@{
+    ViewData["Title"] = "Task List";
+}
+
+<h1>Tasks</h1>
+
+<!-- A get action is used for reading / searching records -->
+<form method="get">
+    <div class="form-group">
+        <div class="input-group">
+            <input type="search" class="form-control" asp-for="SearchTerm" />
+            <span class="input-group">
+                <button class="btn btn-primary">Search</button>
+            </span>
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    @foreach(var task in Model.Tasks)
+    {
+        <tr>
+            <td>@task.Subject</td>
+            <td>@task.Description</td>
+            <td>@task.Priority</td>
+
+            <td>
+                <a class="btn btn-lg" asp-page="./Detail" asp-route-taskId="@task.Id">View</a>
+                <a class="btn btn-lg" asp-page="./Edit" asp-route-taskId="@task.Id">Edit</a>
+            </td>
+        </tr>
+    }
+</table>
+

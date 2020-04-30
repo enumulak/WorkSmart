@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WorkSmart.Data/1.0.0": {
+        "dependencies": {
+          "WorkSmart.Core": "1.0.0"
+        },
+        "runtime": {
+          "WorkSmart.Data.dll": {}
+        }
+      },
+      "WorkSmart.Core/1.0.0": {
+        "runtime": {
+          "WorkSmart.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkSmart.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkSmart.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

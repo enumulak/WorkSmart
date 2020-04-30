@@ -1,0 +1,19 @@
+﻿@page "{taskId:int}"
+
+@model WorkSmart.Web.Pages.Tasks.DetailModel
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h1>@Model.Task.Subject</h1>
+
+<div>
+    Description: @Model.Task.Description
+</div>
+
+<div>
+    Priority: @Model.Task.Priority
+</div>
+
+<a asp-page="./List" class="btn btn-primary">All Tasks</a>
+

@@ -1,0 +1,36 @@
+﻿@page "{taskId:int}"
+
+
+@model WorkSmart.Web.Pages.Tasks.EditModel
+@{
+    ViewData["Title"] = "Edit Task";
+}
+
+<h1>Editing @Model.Task.Subject</h1>
+
+<form method="post">
+
+    <input type="hidden" asp-for="Task.Id" />
+
+    <div class="form-group">
+        <label asp-for="Task.Subject"></label>
+        <input asp-for="Task.Subject" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Task.Description"></label>
+        <input asp-for="Task.Description" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Task.Priority"></label>
+        <select class="form-control" asp-for="Task.Priority" asp-items="Model.Priority">
+            
+        </select>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-page="./List" class="btn btn-primary">Back</a>
+
+</form>
+

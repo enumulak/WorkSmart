@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\bin\Debug\netcoreapp3.1\WorkSmart.Core.deps.json
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\bin\Debug\netcoreapp3.1\WorkSmart.Core.dll
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\bin\Debug\netcoreapp3.1\WorkSmart.Core.pdb
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\obj\Debug\netcoreapp3.1\WorkSmart.Core.csprojAssemblyReference.cache
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\obj\Debug\netcoreapp3.1\WorkSmart.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\obj\Debug\netcoreapp3.1\WorkSmart.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\obj\Debug\netcoreapp3.1\WorkSmart.Core.AssemblyInfo.cs
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\obj\Debug\netcoreapp3.1\WorkSmart.Core.dll
+C:\Users\User\Documents\Source\Repos\AspNetCore Projects\WorkSmart\WorkSmart.Core\obj\Debug\netcoreapp3.1\WorkSmart.Core.pdb
